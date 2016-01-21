@@ -243,17 +243,17 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[Sheild bot 3.3
     
      Hello my Good friends ߘట搰
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @Gmorr
    〰〰〰〰〰〰〰〰
    ߚ頏ur admins are : 
-   ߔࠀsorblack_creed
-   ߔࠀamircc_creed
-   ߔࠀaria_creed
-   ߔࠀalireza_mah_creed 
+   ߔࠀ@Dawsh_sepehr
+   ߔࠀ@Ostad_hangher
+   ߔࠀ@Ryangmor
+   ߔࠀ@TsH_SUDo
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -330,7 +330,7 @@ You Can user both "!" & "/" for themߎ犙囌توانید از دو شکلک !  �
 
 ]],
     help_text = [[
-Creed bots Help for mods : ߘ芐lugins : ߔ늊1. banhammer ⭕️
+Sheild bots Help for mods : ߘ芐lugins : ߔ늊1. banhammer ⭕️
 Help For Banhammerߑ犘تورات حذف و کنترل گروه
 
 !Kick @UserName ߘ슁nd You Can do It by Replay ߙ芘蘱ای حذف کسی به کار میره همچنین با ریپلی هم میشه 
@@ -414,19 +414,19 @@ Get Ids Chatߔꊘꙅامی ای دی های موجود در چت رو بهتون
 
 !allߔ䊴his is like stats in a fileߔ芙癅ه ی اطلاعات گروه رو میده
 
-!newlink : ߔ㊒evokes the Invite link of Group. �
+!clink : ߔ㊒evokes the Invite link of Group. �
 لینک گروه رو عوض میکنه 
 
-!getlink : ߒኇet the Group link in Group .
+!link : ߒኇet the Group link in Group .
 لینک گروه را در گروه نمایش میده
 
 !linkpv : ߔʔo give the invitation Link of group in Bots PV.
 برای دریافت لینک در پیوی استفاده میشه 
 〰〰〰〰〰〰〰〰
 Admins :®
-!addgp ߘou Can add the group to moderation.jsonߘኘ蘱ای آشنا کردن گروه به ربات توسط مدیران  اصلی ربات
+!add ߘou Can add the group to moderation.jsonߘኘ蘱ای آشنا کردن گروه به ربات توسط مدیران  اصلی ربات
 
-!remgp ߘou Can Remove the group from mod.json⭕️
+!rem ߘou Can Remove the group from mod.json⭕️
 برای ناشناس کردن گروه برای ربات توسط مدیران اصلی
 
 !setgpowner (Gpid) user_id ⚫️
@@ -439,7 +439,7 @@ from realm®®
 
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
+!stats Sheildbot (sudoers)✔️
 shows bt statsߔꊘ蘱ای دیدن آمار ربات کرید
 
 !statsߔ芳hows group statsߒ⊘♅ار گروه را نشان میده
@@ -454,8 +454,8 @@ shows bt statsߔꊘ蘱ای دیدن آمار ربات کرید
 
 〰〰〰〰〰〰〰〰〰
 ߔ젭ore plugins 
-⚠️ We are Creeds ... ⚠️
-our channel : @creedantispam_channelߔ늚阧نال ما 
+⚠️ We are ShieldTeam ... ⚠️
+our channel : @TeleSheild_channelߔ늚阧نال ما 
 You Can user both "!" & "/" for themߎ犙囌توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
 ]]
 
